@@ -31,3 +31,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-zoroddu-704009412/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SimoneZoroddu)
+
+
+![Snake animation](https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-snake.svg)
