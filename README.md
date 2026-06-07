@@ -33,5 +33,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SimoneZoroddu)
 
 
-![Snake animation](https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-snake.svg)
-![Snake animation](https://github.com/fancyboi999/fancyboi999/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake.svg)
+![Snake animation](https://github.com/SimoneZoroddu/SimoneZoroddu/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake.svg)
