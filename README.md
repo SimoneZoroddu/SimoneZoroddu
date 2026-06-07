@@ -34,3 +34,4 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-snake.svg)
+![Snake animation](https://github.com/fancyboi999/fancyboi999/blob/output/github-snake.svg)
