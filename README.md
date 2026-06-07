@@ -1,3 +1,17 @@
+# Hi, I'm Simone Zoroddu 👋
+
+💻 Junior Full Stack Web Developer 
+
+🎓 I am currently studying Java and Spring through a specialization course.
+
+🔧 Currently expanding my skills independently, exploring technologies such as Prisma, JWT, bcrypt, Multer, FullCalendar, json2csv, Recharts, Stripe, and PWA development with Vite.
+
+🤖 Interested in exploring AI Integration Engineering in the future.
+
+🌱 Always learning, building, and improving.
+
+
+
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
