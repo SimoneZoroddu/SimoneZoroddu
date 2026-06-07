@@ -36,3 +36,18 @@
 ![Snake animation](https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake.svg)
 ![Snake animation](https://github.com/SimoneZoroddu/SimoneZoroddu/blob/output/github-snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/SimoneZoroddu/SimoneZoroddu/output/github-snake.svg"
+  />
+</picture>
